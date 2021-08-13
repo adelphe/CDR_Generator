@@ -12,6 +12,6 @@ Une application qui permet de générer des fichiers cvs à l'image des CDRs pro
   
 ## Authors
 
-- [@katherinepeterson](https://github.com/adelphe/adelphe)
+- [@Adelphe](https://github.com/adelphe/adelphe)
 
   
